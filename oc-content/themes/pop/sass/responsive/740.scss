@@ -1,0 +1,66 @@
+
+
+body.login,
+body.register,
+body._404,
+body.recover,
+body.item ,
+body.item-post,
+body.contact {
+    #main{
+        width: 90%;
+        margin-top:1em;
+    }
+
+    .form-container {
+        width: 100%;
+    }
+}
+body.item {
+    .photos {
+          float: left;
+          margin: 2rem auto 0 auto;
+          width: 100%;
+    }
+}
+
+body.home{
+    #main {
+        margin-top:1em;
+    }
+}
+
+body.page {
+    #main{
+        width: 90%;
+    }
+    .box {
+        width: 100%;
+    }
+}
+
+.wrapper.ads_header {
+    display: none;
+}
+
+
+/* search pattern responsive */
+.search-header {
+    display:none;
+}
+body.search,
+body.home{
+    #main {
+        margin-top:0px;
+    }
+    .search-responsive {
+        position: relative;
+        margin: 1em auto;
+        width: 220px;
+        display: block;
+    }
+    .search-responsive-wrapper {
+        display: block;
+        width: 100%;
+    }
+}

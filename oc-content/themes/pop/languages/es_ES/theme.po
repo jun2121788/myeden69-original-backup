@@ -1,0 +1,825 @@
+# Translation of Pop theme in Spanish (Spain)
+# This file is distributed under the same license as the Pop theme package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-10 16:09+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Pop theme\n"
+"POT-Creation-Date: \n"
+"Last-Translator: carlos <carlos@osclass.org>\n"
+"Language-Team: \n"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/404.php:10
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Lo sentimos, no podemos encontrar la página que buscas."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/404.php:18
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Déjanos ayudarte, tenemos algunos consejos para ayudarte a encontrarlo."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/404.php:21
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Buscar</strong>:"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/404.php:24
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Búscalo</strong> en las categorías más populares."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/contact.php:11
+msgid "Contact us"
+msgstr "Contactenos"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/contact.php:20
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:40
+msgid "Your name"
+msgstr "Tu nombre"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/contact.php:21
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/contact.php:34
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:48
+msgid "optional"
+msgstr "Opcional"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/contact.php:27
+msgid "Your email address"
+msgstr "Tu dirección e-mail"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/contact.php:33
+msgid "Subject"
+msgstr "Asunto"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/contact.php:40
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:53
+msgid "Message"
+msgstr "Mensaje"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/contact.php:58
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:77
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:163
+msgid "Enter the words above"
+msgstr "Introduzca las palabras de arriba"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/contact.php:63
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:82
+msgid "Send"
+msgstr "Enviar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/footer.php:18
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:405
+msgid "Contact"
+msgstr "Contacto"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/footer.php:27
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"%s\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "Este sitio usa <strong>Osclass</strong> , el <a title=\"Osclass web\" href=\"%s\"> software libre de creación de páginas de clasificados</a>"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:5
+msgid "ie. PHP Programmer"
+msgstr "Ej: Programador PHP"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:32
+msgid "Search ..."
+msgstr "Buscar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:386
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:19
+msgid "Publish a listing"
+msgstr "Publicar un anuncio"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:387
+msgid "Edit your listing"
+msgstr "Editar tu anuncio"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:388
+msgid "Send to a friend"
+msgstr "Enviar anuncio a amigo"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:389
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:2
+msgid "Contact publisher"
+msgstr "Póngase en contacto con el anunciante"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:390
+msgid "Search results"
+msgstr "Resultados de la búsqueda"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:391
+msgid "Search results: %s"
+msgstr "Resultados de búsqueda: %s"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:392
+msgid "Dashboard"
+msgstr "Panel de administración"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:393
+msgid "%s's profile"
+msgstr "%s's perfil"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:394
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:447
+msgid "Account"
+msgstr "Cuenta"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:395
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:437
+msgid "Listings"
+msgstr "Anuncios"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:396
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:442
+msgid "Alerts"
+msgstr "Alertas"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:397
+msgid "Update account"
+msgstr "Actualizar cuenta"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:398
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:452
+msgid "Change email"
+msgstr "Cambiar email"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:399
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:457
+msgid "Change username"
+msgstr "Cambiar nombre de usuario"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:400
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:403
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:462
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:401
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/header.php:53
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:16
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:402
+msgid "Recover password"
+msgstr "Recuperar contraseña"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:404
+msgid "Create a new account"
+msgstr "Crear una cuenta nueva"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:432
+msgid "Public Profile"
+msgstr "Perfil Público"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:467
+msgid "Delete account"
+msgstr "Eliminar cuenta"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:534
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:540
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:559
+msgid "Theme settings updated correctly"
+msgstr "Ajustes de tema actualizado correctamente"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:576
+msgid "The logo image has been uploaded correctly"
+msgstr "La imagen del logotipo se ha cargado correctamente"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:578
+msgid "An error has occurred, please try again"
+msgstr "Se produjo un error, inténtalo de nuevo"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:589
+msgid "The logo image has been removed"
+msgstr "La imagen del logotipo se ha eliminado"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:591
+msgid "Image not found"
+msgstr "Imagen no encontrada"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:612
+msgid "Theme settings"
+msgstr "Opciones del tema"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:613
+msgid "Header logo"
+msgstr "Logotipo de la cabecera"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:614
+msgid "Color settings"
+msgstr "Personalizar colores"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:669
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:696
+msgid "All categories"
+msgstr "Todas las categorías"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:901
+msgid "Check out this profile with interesting products at %1$s. %2$"
+msgstr "Mira este perfil con productos interesantes en %1$s. %2$"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:904
+msgid "Check out what I just found at %1$s. %2$"
+msgstr "Mira lo que acabo de encontrar en %1$s. %2$"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:912
+msgid "Check out this profile with interesting products at %s."
+msgstr "Mira este perfil con productos interesantes en %s."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:913
+msgid "Take a look at %1$s's profile on %2$s"
+msgstr "Échale un vistazo al perfil de %1$s's en %2$s"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:916
+msgid "Check out what I just found < %s >"
+msgstr "Mira lo que he encontrado en < %s >"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/functions.php:917
+msgid "Take a look at %s"
+msgstr "Esto te puede interesar: %s"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/head.php:25
+msgid "Delete"
+msgstr "Eliminar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/head.php:26
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/head.php:85
+msgid "Previous image"
+msgstr "Imagen anterior"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/head.php:86
+msgid "Next image"
+msgstr "Siguiente imagen"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/head.php:87
+msgid "Close"
+msgstr "Cerrar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/header.php:35
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:174
+msgid "Publish"
+msgstr "Publicar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/header.php:39
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/header.php:44
+msgid "My account"
+msgstr "Mi cuenta"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/header.php:45
+msgid "My listings"
+msgstr "Mis anuncios"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/header.php:46
+msgid "My alerts"
+msgstr "MIs alertas"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/header.php:48
+msgid "Settings"
+msgstr "Ajustes"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/header.php:49
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/header.php:55
+msgid "Register"
+msgstr "Registrarse"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.alert.form.php:6
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Usted se ha suscrito con éxito a la alerta"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.alert.form.php:7
+msgid "Invalid email address"
+msgstr "Direccion email inválida"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.alert.form.php:8
+msgid "There was a problem with the alert"
+msgstr "Hubo un problema con la alerta"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.alert.form.php:18
+msgid "Subscribe to this search"
+msgstr "Suscríbete a esta búsqueda"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.alert.form.php:32
+msgid "Subscribe now"
+msgstr "Suscríbase ahora"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.search.404.php:2
+msgid "What are you looking for?"
+msgstr "¿Qué estás buscando?"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.search.404.php:37
+msgid "Search"
+msgstr "Buscar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.search.filters.php:27
+msgid "Categories"
+msgstr "Categorías"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.search.filters.php:48
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:76
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:88
+msgid "Region"
+msgstr "Region"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.search.filters.php:78
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:95
+msgid "City"
+msgstr "Ciudad"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.search.filters.php:122
+msgid "Apply"
+msgstr "Aplicar."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:5
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "El anuncio ha caducado. No puede ponerse en contacto con el editor."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:9
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Es tu propio anuncio, no puedes ponerte en contacto contigo mismo."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:13
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Debes identificarte o crear una cuenta nueva para poder contactar con el anunciante"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:17
+msgid "Register for a free account"
+msgstr "Regístrese para obtener una cuenta gratuita"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:21
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:125
+msgid "Name"
+msgstr "Nombre"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:23
+msgid "Name: %s"
+msgstr "Nombre: %s"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:26
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:29
+msgid "Phone: %s"
+msgstr "Teléfono: %s"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:44
+msgid "Your e-mail address"
+msgstr "Tu direccion email"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:48
+msgid "Phone number"
+msgstr "Numero de telefono"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.seller.contact.php:59
+msgid "Attachment"
+msgstr "Archivos adjuntos"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/inc.user_header_public_profile.php:41
+msgid "Share it!"
+msgstr "¡Compártelo!"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:32
+msgid "Category"
+msgstr "Categoria"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:34
+msgid "Select a category"
+msgstr "Seleccionar categoria"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:38
+msgid "Title"
+msgstr "Titulo"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:44
+msgid "Description"
+msgstr "Descripción"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:51
+msgid "Price"
+msgstr "Precio"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:65
+msgid "Listing Location"
+msgstr "Lugar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:70
+msgid "Country"
+msgstr "Pais"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:105
+msgid "City Area"
+msgstr "Zona de la ciudad"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:111
+msgid "Address"
+msgstr "Direccion"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:122
+msgid "Seller's information"
+msgstr "Informacion del vendedor"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:131
+msgid "E-mail"
+msgstr "Email"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:138
+msgid "Show e-mail on the listing page"
+msgstr "Mostrar correo electrónico en la página del anuncio"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item-post.php:172
+msgid "Update"
+msgstr "Actualizar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item.php:106
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/loop-single-premium.php:32
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/loop-single.php:45
+msgid "Listing"
+msgid_plural "Listings"
+msgstr[0] "Anuncio"
+msgstr[1] "Anuncios"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/item.php:120
+msgid "Other products from %s"
+msgstr "Otros productos de %s"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/loop-single.php:28
+msgid "Edit item"
+msgstr "Editar anuncio"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/loop-single.php:30
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Esta acción no se puede deshacer. ¿Seguro que desea continuar?"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/loop-single.php:33
+msgid "Activate"
+msgstr "Activar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/loop.php:73
+msgid "Load more listings"
+msgstr "Cargar más anuncios"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/main.php:22
+msgid "There aren't listings available at this moment"
+msgstr "No hay ningún anuncio disponible en este momento"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/search.php:11
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/search.php:18
+msgid "There are no results matching \"%s\""
+msgstr "No hay resultados que coincidan con \"%s\""
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-alerts.php:19
+msgid "You do not have any alerts yet"
+msgstr "Usted no tiene ninguna alerta todavía"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-alerts.php:42
+msgid "All listings"
+msgstr "Todos los anuncios"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-alerts.php:60
+msgid "Alert"
+msgstr "Alerta"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-alerts.php:66
+msgid "Search pattern"
+msgstr "Filtro de búsqueda"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-alerts.php:70
+msgid "Created at"
+msgstr "Creado en"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-alerts.php:73
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Esta acción no se puede deshacer. ¿Seguro que desea continuar?"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_email.php:11
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_email.php:21
+msgid "Change e-mail"
+msgstr "Cambiar e-mail"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_email.php:30
+msgid "Current e-mail"
+msgstr "Tu correo electronico"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_email.php:36
+msgid "New e-mail"
+msgstr "Nuevo correo"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_email.php:61
+msgid "Email: this field is required"
+msgstr "Email: este campo es obligatorio"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_password.php:28
+msgid "Current password"
+msgstr "Contraseña actual"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_password.php:34
+msgid "New password"
+msgstr "Nueva contraseña"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_password.php:40
+msgid "Repeat new password"
+msgstr "Repetir nueva contraseña"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_username.php:29
+msgid "Username: this field is required"
+msgstr "Usuario: este campo es obligatorio"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_username.php:54
+msgid "The username is available"
+msgstr "Nombre de usuario disponible"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_username.php:56
+msgid "The username is NOT available"
+msgstr "Nombre de usuario NO disponible"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-change_username.php:73
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-items.php:17
+msgid "No listings have been added yet"
+msgstr "Aun no se han añadido resultados"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-login.php:11
+msgid "Access to your account"
+msgstr "Acceso a tu cuenta"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-login.php:25
+msgid "Password"
+msgstr "Contraseña"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-login.php:32
+msgid "Remember me"
+msgstr "Recordar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-login.php:35
+msgid "Log in"
+msgstr "Acceder"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-login.php:40
+msgid "Forgot password?"
+msgstr "¿Has olvidado tu contraseña?"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-profile.php:35
+msgid "User type"
+msgstr "Tipo de usuario"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-profile.php:42
+msgid "Cell phone"
+msgstr "Telefono movil"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-profile.php:48
+msgid "Phone"
+msgstr "Telefono"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-profile.php:72
+msgid "City area"
+msgstr "Zona"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-profile.php:84
+msgid "Website"
+msgstr "Pagina web"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-recover.php:10
+msgid "Recover your password"
+msgstr "Recuperar tu contraseña"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-recover.php:40
+msgid "Send me a new password"
+msgstr "Enviar una nueva contraseña"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-register.php:14
+msgid "Register an account for free"
+msgstr "Registrar una cuenta gratis"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-register.php:40
+msgid "Repeat password"
+msgstr "Repetir contraseña"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-register.php:44
+msgid "Passwords don't match"
+msgstr "Las contraseñas no coinciden"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-register.php:101
+msgid "Create"
+msgstr "Crear"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-register.php:113
+msgid "Country is required"
+msgstr "País: este campo es obligatorio"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-register.php:114
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-register.php:122
+msgid "Region is required"
+msgstr "Región: este campo es obligatorio"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-register.php:115
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-register.php:119
+msgid "City is required"
+msgstr "Ciudad: este campo es obligatorio"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/user-sidebar.php:5
+msgid "Are you sure you want to delete your account?"
+msgstr "¿Seguro que quieres eliminar tu cuenta?"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/color_settings.php:4
+msgid "Available designs"
+msgstr "Diseños disponibles"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:16
+msgid "Preview"
+msgstr "Previsualizar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:25
+msgid "Remove logo"
+msgstr "Borrar logo"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:32
+msgid "No logo has been uploaded yet"
+msgstr "No se ha subido ningun logo"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:35
+msgid "Upload logo"
+msgstr "Subir logo"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:36
+msgid "The preferred size of the logo is 195x50."
+msgstr "El tamaño preferido de logo es 195x50"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:38
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>Nota:</strong> Cargar otro logotipo sobrescribirá el logotipo actual."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:46
+msgid "Logo image (png,gif,jpg)"
+msgstr "Extensiones del logo"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:52
+msgid "Upload"
+msgstr "Subir"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:61
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "La carpeta de imagenes <strong>%s</strong> no tiene permisos de escritura"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:62
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "Osclass no ha podido subir la imagen de logo desde el panel de administración"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:63
+msgid "Please make the aforementioned image folder writable."
+msgstr "Por favor modifica la carpeta de imágenes, necesita ser escribible."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/header.php:68
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Para hacer un directorio escribible bajo UNIX ejecutar este comando desde el shell:"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:14
+msgid "Header buttons"
+msgstr "Botones de la cabecera"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:17
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:36
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:47
+msgid "Background"
+msgstr "Fondo"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:21
+msgid "Text buttons"
+msgstr "Texto de los botones"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:25
+msgid "Background (hover)"
+msgstr "Fondo (hover)"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:29
+msgid "Text buttons (hover)"
+msgstr "Texto de los botones (hover)"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:33
+msgid "Content"
+msgstr "Contenido"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:40
+msgid "Main color"
+msgstr "Color principal"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:44
+msgid "Premium listings"
+msgstr "Anuncios premium"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:51
+msgid "Border color"
+msgstr "Color del borde"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:58
+msgid "Save"
+msgstr "Guardar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:59
+msgid "Restore default"
+msgstr "Restaurar valores predeterminados"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/inc.color.settings.php:112
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:16
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr "Me gustaría contribuir al desarrollo de Osclass con una donación de"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:21
+msgid "Custom"
+msgstr "Personalizar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:22
+msgid "Donate"
+msgstr "Donar"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:32
+msgid "Search placeholder"
+msgstr "Buscar marcador de posición"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:36
+msgid "Footer link"
+msgstr "Enlace de pie de página"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:38
+msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "Quiero ayudar a Osclass añadiendo un link a  <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> desde mi sitio web con el siguiente texto:"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:39
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "Este sitio está gestionado con la tecnología del <a title=\"OSClass web\" href=\"http://osclass.org/\">software de classificados</a><strong>Osclass</strong>."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:47
+msgid "Premium ads per page"
+msgstr "Anuncios premium por página"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:53
+msgid "Ads management"
+msgstr "Gestión de publicidad"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:57
+msgid "In this section you can configure your site to display ads and start generating revenue."
+msgstr "En esta sección puedes configurar tu sitio para mostrar anuncios y obtener ingresos"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:57
+msgid "If you are using an online advertising platform, such as Google Adsense, copy and paste here the provided code for ads."
+msgstr "Si eres usuario de una plataforma de publicidad online, como Google Adsense, copia y pega aquí el código de los anuncios"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:63
+msgid "Header 728x90"
+msgstr "Cabecera 728x90"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:67
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Este anuncio se mostrará en la parte superior de tu sitio web, al lado del título de la página y encima de la lista de resultados."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:71
+msgid "Search results 300x250"
+msgstr "Resultados de búsqueda 300x250"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:75
+msgid "This ad will be shown as a listing in the search page results of your website. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Este anuncio se mostrará como entre los resultados de búsqueda de tu sitio web. Ten en cuenta que el tamaño del anuncio debe ser de 300x350 píxels."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:79
+msgid "Listing detail 300x250"
+msgstr "Detalle del anuncio 300x250"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:83
+msgid "This ad will be shown at the right sidebar of your website, on the product detail page. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Este anuncio se mostrará en la barra lateral derecha de tu página, en la página detalle de los productos. Ten en cuenta que el tamaño del anuncio tiene que ser de 300x350 píxels."
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/admin/settings.php:87
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:27
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:66
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:73
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:75
+msgid "Select a region..."
+msgstr "Selecciona una región"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:46
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:127
+msgid "No results"
+msgstr "No hay resultados"
+
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:57
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:69
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:79
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:81
+#: /Users/ssuareza/htdocs/wallapop/oc-content/themes/pop/frm.class/PopUserForm.php:114
+msgid "Select a city..."
+msgstr "Selecciona una ciudad"
+

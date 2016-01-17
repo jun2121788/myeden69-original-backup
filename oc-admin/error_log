@@ -1,0 +1,2 @@
+[08-Nov-2015 13:06:31 Australia/NSW] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x32 0x37 0x3F in /home/myedenco/public_html/oc-content/uploads/adimporter_ads.temp, line: 20 in /home/myedenco/public_html/oc-content/plugins/importer/index.php on line 27
